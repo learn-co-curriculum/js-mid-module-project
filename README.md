@@ -25,6 +25,7 @@ Once you understand which website you want to re-create, search around for that 
 **APIs to avoid**: Yelp, Twitter, and Facebook. They are crazy confusing. 
 
 ***APIs to check out**: 
+ - List of APIS: https://github.com/jdorfman/awesome-json-datasets
  - City of New York Open Data: https://opendata.cityofnewyork.us/data/
  - Public APIs:  https://github.com/toddmotto/public-apis
 
